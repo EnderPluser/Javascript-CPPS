@@ -1,5 +1,5 @@
 build: 
-  docker:
+  docker: Procfile
      web: index.html
 run:
   web: node game.js
