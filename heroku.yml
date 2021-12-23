@@ -1,3 +1,5 @@
 build: 
+  docker:
+     web: index.html
 run:
   web: node game.js
